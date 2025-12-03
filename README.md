@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    Structs and Groups
+    DS & Algorithms
   </a>
 </h1>
 

@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    Structs and Groups
+    DS & Algorithms
   </a>
 </h1>
 
@@ -67,4 +67,4 @@ struct group
     int identity;                       // Elemento identidad
     int elements[MAX_ELEMENTS];         // Conjunto de elementos
     int operation[MAX_ELEMENTS][MAX_ELEMENTS]; // Tabla de Cayley
-};
+}; 
